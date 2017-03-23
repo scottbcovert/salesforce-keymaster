@@ -1,0 +1,44 @@
+#Ignore .DS_Store Files
+.DS_Store
+
+#Ignore mm.log File
+mm.log
+
+#Ignore Sublime Project Files
+*.sublime*
+
+#Ignore Config Files
+config/*
+
+#Ignore MavensMate Files
+apex-scripts/*
+
+#Ignore IlluminatedCloud Files
+.idea/
+IlluminatedCloud/
+*.iml
+
+#Ignore Eclipse Project Files
+salesforce.schema
+Referenced\ Packages/*
+.project
+.settings/*
+
+#Ignore MS Word Documentation
+*.docx
+
+#Ignore SfApexDoc Documentation & Log Files
+Documentation/*
+SfApexDocLog.txt
+
+#Ignore Build Files
+node_modules
+.tmp
+dist
+
+#Ignore ANT Properties & Temp Files
+build.properties
+installdeploy/*
+stage/*
+staging/*
+deploy.zip
